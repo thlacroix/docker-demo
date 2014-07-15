@@ -9,3 +9,5 @@ All the code will be available in the `/vagrant` directory
 You can begin with the [curl](curl) demo
 
 You can then build and/or launch [MongoDB](mongodb), the [node.js application](nodeapp) and the [fake-s3](fakes3) service
+
+If you need, you can find some documentation on [commands](https://docs.docker.com/reference/commandline/cli/) and [Dockerfile](https://docs.docker.com/reference/commandline/cli/)
