@@ -1,0 +1,3 @@
+[submodule "nodeapp/node-express-mongoose-demo"]
+	path = nodeapp/node-express-mongoose-demo
+	url = https://github.com/thlacroix/node-express-mongoose-demo.git
