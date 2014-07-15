@@ -7,7 +7,8 @@ RUN apt-get update
 RUN apt-get install -y -q mongodb-org
 RUN mkdir -p /data/db
 
-VOLUME ["/data/db"]
+VOLUME ["/data"]
+WORKDIR /data
 
 EXPOSE 27017
 CMD ["mongod"]
