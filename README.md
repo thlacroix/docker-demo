@@ -1,3 +1,4 @@
+# Docker demonstration
 Clone this repo with `git clone --recursive https://github.com/thlacroix/docker-demo.git`
 
 To boot the VM, install docker and pull some base images, run `vagrant up`

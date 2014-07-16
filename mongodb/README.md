@@ -1,3 +1,4 @@
+# MongoDB container 
 Create the data container with `docker run -v /data --name=db-data ubuntu mkdir /data/db`
 
 Launch a MongoDB container with `docker run -d --name=db --volumes-from db-data dockerfile/mongodb --noprealloc --smallfiles`
